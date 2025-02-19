@@ -58,6 +58,8 @@ img {
   padding: 0;
   display: flex;
   gap: 40px;
+  position: relative;
+  color: #404bbf;
 }
 .nav-link {
   font-weight: 500;
@@ -112,7 +114,6 @@ img {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  position: relative;
 }
 /* end region header */
 /* region 1 */
