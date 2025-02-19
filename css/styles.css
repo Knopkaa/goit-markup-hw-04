@@ -51,6 +51,8 @@ img {
 .nav {
   display: flex;
   align-items: center;
+  position: relative;
+  color: #404bbf;
 }
 .nav-list {
   list-style: none;
@@ -58,8 +60,6 @@ img {
   padding: 0;
   display: flex;
   gap: 40px;
-  position: relative;
-  color: #404bbf;
 }
 .nav-link {
   font-weight: 500;
