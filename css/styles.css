@@ -407,6 +407,9 @@ img {
 .style-icon-a:focus {
   background-color: #404bbf;
 }
+.style-icon-a:focus {
+  background-color: #404bbf;
+}
 .style-svg {
   fill: #f4f4fd;
 }
