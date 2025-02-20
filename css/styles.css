@@ -61,7 +61,7 @@ img {
   display: flex;
   gap: 40px;
 }
-::after {
+.nav-item:first-child .nav-link::after {
   content: '';
   width: 100%;
   position: absolute;
