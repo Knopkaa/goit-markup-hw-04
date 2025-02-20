@@ -129,6 +129,7 @@ img {
 /* end region header */
 /* region 1 */
 
+/*Проблема за Картинкою*/
 .sec-main {
   background-color: #2e2f42;
   padding: 188px 0;
@@ -139,6 +140,7 @@ img {
   background-position: center;
   background-size: cover;
 }
+/*Проблема за Картинкою*/
 .title-main {
   max-width: 496px;
   font-size: 56px;
